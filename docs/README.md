@@ -22,3 +22,4 @@ Quality assurance and continuous improvement are deeply embedded. OctoAcme enfor
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Role Onboarding & Cross-Team Collaboration Checklist](octoacme-role-onboarding-checklist.md)
